@@ -1,0 +1,7 @@
+D:\C# projects\Integer2\Integer2\bin\Debug\Integer2.exe.config
+D:\C# projects\Integer2\Integer2\bin\Debug\Integer2.exe
+D:\C# projects\Integer2\Integer2\bin\Debug\Integer2.pdb
+D:\C# projects\Integer2\Integer2\obj\Debug\Integer2.csproj.AssemblyReference.cache
+D:\C# projects\Integer2\Integer2\obj\Debug\Integer2.csproj.CoreCompileInputs.cache
+D:\C# projects\Integer2\Integer2\obj\Debug\Integer2.exe
+D:\C# projects\Integer2\Integer2\obj\Debug\Integer2.pdb
